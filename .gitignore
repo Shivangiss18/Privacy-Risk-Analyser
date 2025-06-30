@@ -1,2 +1,6 @@
 
 /data/*
+/logs/*
+/results/*
+/.ipynb_checkpoints/*
+/models/*
